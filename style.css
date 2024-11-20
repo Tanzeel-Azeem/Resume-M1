@@ -137,6 +137,12 @@ img {
   }
 }
 
+@media (max-width:418px){
+  img{
+    height:110px;
+    width: 110px;
+  }
+}
 
 @media (max-width:786px){
 
@@ -148,6 +154,7 @@ img {
   }
   img{
     margin-right: 5px;
+   
   }
     .parent{
         flex-direction: column;
