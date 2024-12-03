@@ -137,10 +137,16 @@ img {
   }
 }
 
-@media (max-width:418px){
+@media (max-width:444px){
   img{
     height:110px;
     width: 110px;
+  }
+  .header-text h1{
+    font-size: 20px;
+  }
+  .header-text h2{
+    font-size: 17px;
   }
 }
 
