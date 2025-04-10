@@ -63,10 +63,11 @@ img {
 }
 
 .contact,
-.education,
+
 .skill,
 .language {
   margin-bottom: 30px;
+  margin-top: 6px;
 }
 
 .contact h2,
@@ -83,8 +84,17 @@ img {
   font-weight: 600;
 }
 
+.education{
+  margin-top: 5px;
+}
+
+
 .experience {
-  margin-top: 47px;
+  margin-top: 0px;
+}
+
+.skill h2{
+  margin-top: 35px;
 }
 
 .contact {
@@ -102,7 +112,7 @@ img {
   width: 70%;
 }
 .ref {
-  margin-top: 120px;
+  margin-top: 140px;
 }
 
 
